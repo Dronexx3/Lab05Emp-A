@@ -1,0 +1,11 @@
+/home/dronexx/EmpresarialesAv/lab05/books/bin/Debug/net8.0/books.deps.json
+/home/dronexx/EmpresarialesAv/lab05/books/bin/Debug/net8.0/books.dll
+/home/dronexx/EmpresarialesAv/lab05/books/bin/Debug/net8.0/books.pdb
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/books.GeneratedMSBuildEditorConfig.editorconfig
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/books.AssemblyInfoInputs.cache
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/books.AssemblyInfo.cs
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/books.csproj.CoreCompileInputs.cache
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/books.dll
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/refint/books.dll
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/books.pdb
+/home/dronexx/EmpresarialesAv/lab05/books/obj/Debug/net8.0/ref/books.dll
